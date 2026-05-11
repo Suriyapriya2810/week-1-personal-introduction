@@ -3,12 +3,18 @@
        This is a simple Python-based program developed as part of my Data Science Internship at The Developers Arena. The program interacts with the user by asking for their name, age, and favorite hobby, then it will generates a personalized and friendly welcome message.
 
 2)**Features**
-       **User Interaction**: 
-                Uses input() to gather data from the user.
-      **Dynamic Output:**
-                Uses Python variables and f-strings to display a unique welcome message.
-      **Simple Logic:**
-                Demonstrates fundamental Python basics like variables and print functions.
+
+   **User Interaction**: 
+   
+               Uses input() to gather data from the user.
+               
+   **Dynamic Output:**
+   
+               Uses Python variables and f-strings to display a unique welcome message.
+               
+**Simple Logic:**
+    
+               Demonstrates fundamental Python basics like variables and print functions.
    
 3)**File Structure**
 The repository contains the following  files:
