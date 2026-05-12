@@ -1,0 +1,6 @@
+Applications:
+     Python programming
+Functions:
+     i)  Print statement
+     ii) f-String
+     iii) input() function
